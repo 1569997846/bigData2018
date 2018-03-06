@@ -165,10 +165,10 @@
   <body>
     <img src="&#x65e5;&#x5fd7;&#x5206;&#x6790;&#x666e;&#x901a;&#x67b6;&#x6784;.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
+<node CREATED="1519954422406" ID="ID_1685643013" MODIFIED="1519954473206" TEXT="&#x5982;&#x4f55;&#x89e3;&#x51b3;flume&#x5c06;&#x6570;&#x636e;&#x4f20;&#x5230;hdfs&#x4e0a;&#x4ea7;&#x751f;&#x8bb8;&#x591a;&#x5c0f;&#x6587;&#x4ef6;&#x7684;&#x95ee;&#x9898;&#xff1f;&#xff1f;&#xff1f;"/>
 </node>
 </node>
 </map>
